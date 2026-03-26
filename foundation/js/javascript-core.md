@@ -262,12 +262,3 @@ import { a } from "./file.js";
 
 👉 JavaScript controls **logic, behavior, and interaction** of web applications.
 
----
-
-## 21. Next Topics
-
-- Event Loop deep dive
-- Promise vs async/await
-- Closure deep dive
-- Browser rendering
-- Framework (Vue/React)
